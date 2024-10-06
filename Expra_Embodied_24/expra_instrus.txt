@@ -1,0 +1,14 @@
+Instruktion: Tracking anders beschreiben mit Effekten der Stickbewegung. Eventuell 2 Folien.
+Nach Bahnwechsel: Bild ändern, Pfeile = Effekte der Stickbewegung.
+
+einhältst vorletzte Folie
+
+Kurzzusammenfassung Instruktionen
+
+Trainingsblock 1: Verweis auf Bild. Controller im Bild nach vorne.
+
+Controller gerade halten.
+
+Nach Sprung und Absturz Reset: Reset Error.
+
+Gesammelten Reward sichtbar machen.
